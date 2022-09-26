@@ -1,5 +1,7 @@
 // Risperdal
-// Treat Autism in Discord the right way. Developed by Trollface Security: Pan, 0xpointer, trickster
+// Treat Autism in Discord the right way. 
+
+// made in August 20th, finished code on September 26th. still have over 40 folders of unfinished shit
 
 const discordjs = require('discord.js')
 const client = new discordjs.Client()
