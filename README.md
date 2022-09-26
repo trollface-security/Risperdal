@@ -1,4 +1,4 @@
-# Risperidal
+# Risperdal
 ## Treat autism in discord the right way.
 
 
